@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="CarSaPOS.Data/CarSaPOS.Data.csproj" Id="88e7cc5b-a16f-4b76-97af-6fcda866b6bf" />
   <Project Path="CarSaPOS.Domain/CarSaPOS.Domain.csproj" Id="0a7f91fa-5dd6-4a21-8a47-1cd6995c9e0c" />
   <Project Path="CarSaPOS.Services/CarSaPOS.Services.csproj" Id="79fc8542-09cd-422b-ae98-61cc1b08f877" />
