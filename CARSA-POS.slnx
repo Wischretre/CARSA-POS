@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CarSaPOS.Data/CarSaPOS.Data.csproj" Id="88e7cc5b-a16f-4b76-97af-6fcda866b6bf" />
+  <Project Path="CarSaPOS.Domain/CarSaPOS.Domain.csproj" Id="0a7f91fa-5dd6-4a21-8a47-1cd6995c9e0c" />
+  <Project Path="CarSaPOS.Services/CarSaPOS.Services.csproj" Id="79fc8542-09cd-422b-ae98-61cc1b08f877" />
+  <Project Path="CarSaPOS.WinForms/CarSaPOS.WinForms.csproj" Id="b5859a11-2839-40b7-a693-5f4cd8b13f22" />
+</Solution>
